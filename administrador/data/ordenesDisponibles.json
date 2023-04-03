@@ -1,0 +1,107 @@
+[
+    {
+        "id_orden" : 1,
+        "cliente" : {
+            "nombre_cliente": "Kenneth Joann Contreras Colindres",
+            "email_cliente": "Kenneth100@gmail.com",
+            "telefono_cliente": 9828282,
+            "lista_deseos": [],
+            "carrito": [
+                {
+                "nombre_producto": "Crystal Samsung 4k",
+                "mpresa_producto": "Samsung",
+                "precio_producto": 10000,
+                "ategoria_producto": "TV"
+                }
+            ]
+        }
+    },
+    {
+        "id_orden" : 8,
+        "cliente" : {
+            "nombre_cliente": "Elmer Noe Sosa",
+            "email_cliente": "Elmer@yahoo.com",
+            "telefono_cliente": 84738297,
+            "lista_deseos": [],
+            "carrito": [
+                {
+                "nombre_producto": "HP tactil",
+                "empresa_producto": "HP",
+                "precio_producto": 15000,
+                "egoria_producto": "laptop"
+                },
+                {
+                "nombre_producto": "Huawei Tab 9pulg ",
+                "empresa_producto": "Huawei",
+                "precio_producto": 9000,
+                "categoria_producto": "tablet"
+                }
+            ]
+        }
+    },
+    {
+        "id_orden" : 12,
+        "cliente" : {
+            "nombre_cliente": "Valeria Sophia Lopez Perez",
+            "mail_cliente": "Valeria123@gmail.com",
+            "telefono_cliente": 837289,
+            "lista_deseos": [],
+            "carrito": [
+                {
+                "nombre_producto": "Iphone X",
+                "empresa_producto": "apple",
+                "precio_producto": 30000,
+                "categoria_producto": "celular"
+                }
+            ]
+        }
+    },
+    {
+        "id_orden" : 19,
+        "cliente" : {
+            "nombre_cliente": "Juan Diego Funez",
+            "email_cliente": "JFunez@yahoo.es",
+            "telefono_cliente": 73287382,
+            "lista_deseos": [],
+            "carrito": [
+                {
+                "nombre_producto": "Apple Watch 2022",
+                "empresa_producto": "apple",
+                "precio_producto": 7000,
+                "categoria_producto": "smartwatch"
+                }
+            ]
+        }
+    },
+    {
+        "id_orden" : 24,
+        "cliente" : {
+            "nombre_cliente": "Maria Isabel Dominguez",
+            "email_cliente": "maria534P@gmail.com",
+            "telefono_cliente": 8327983,
+            "lista_deseos": [],
+            "carrito": [
+                {
+                "nombre_producto": "HP pavilion corei5",
+                "empresa_producto": "HP",
+                "precio_producto": 22000,
+                "categoria_producto": "Laptop"
+                },
+                {
+                "nombre_producto": "Iphone X 64GB",
+                "empresa_producto": "apple",
+                "precio_producto": 25000,
+                "categoria_producto": "celular"
+                },
+                {
+                "nombre_producto": "Samsung Fold",
+                "empresa_producto": "samsung",
+                "precio_producto": 50666,
+                "categoria_producto": "celular"
+                }
+            ]
+        }
+    }
+]
+
+
